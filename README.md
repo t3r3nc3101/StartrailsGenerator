@@ -1,3 +1,3 @@
 # StartrailsGenerator
 
-Python based image stacker.
+Python image stacker.
